@@ -3,7 +3,7 @@ tools
 
 Tools list
 
-* Node.js
+* Node.js (http://nodejs.org/)
   * Express (http://expressjs.com/)
   * Socket.IO (http://socket.io/)
   * KrakenJS (http://krakenjs.com/)
