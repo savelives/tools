@@ -14,3 +14,4 @@ Tools list
   * Compass (http://compass-style.org/)
 
 * MongoDB (http://www.mongodb.org/)
+* Redis (http://redis.io/)
