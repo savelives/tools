@@ -31,3 +31,9 @@ Tools list
            sudo apt-get install -V couchdb 
   }
 * Redis (http://redis.io/)
+* {
+*  Ubuntu: wget http://download.redis.io/releases/redis-2.8.7.tar.gz
+           tar xzf redis-2.8.7.tar.gz
+           cd redis-2.8.7
+           make
+  }
