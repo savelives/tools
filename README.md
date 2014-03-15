@@ -6,6 +6,7 @@ Tools list
 * Node.js (http://nodejs.org/) 
   { 
    Ubuntu: sudo apt-get install nodejs 
+           sudo apt-get install npm
   }
  
   * Express (http://expressjs.com/)
