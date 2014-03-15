@@ -14,5 +14,5 @@ Tools list
   * Compass (http://compass-style.org/)
 
 * MongoDB (http://www.mongodb.org/) { Ubuntu: sudo apt-get install mongodb }
-* CouchDB (http://couchdb.apache.org/)
+* CouchDB (http://couchdb.apache.org/) { Ubuntu: sudo apt-get install -V couchdb }
 * Redis (http://redis.io/)
